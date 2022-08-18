@@ -1,0 +1,99 @@
+[18-08-2022 17:08:05] [ INFO ] [Main:41] Tabela criada com sucesso
+[18-08-2022 17:08:05] [ INFO ] [Main:44] Funcionário 1 cadastrado com sucesso
+[18-08-2022 17:08:05] [ INFO ] [Main:46] Funcionário 2 cadastrado com sucesso
+[18-08-2022 17:08:05] [ INFO ] [Main:48] Funcionário 3 cadastrado com sucesso
+[18-08-2022 17:08:05] [ INFO ] [Main:50] Funcionário deletado com sucesso
+[18-08-2022 17:08:05] [ DEBUG] [Main:52] Funcionário atualizado com sucesso
+[18-08-2022 17:09:08] [ INFO ] [Main:41] Tabela criada com sucesso
+[18-08-2022 17:09:08] [ INFO ] [Main:44] Funcionário 1 cadastrado com sucesso
+[18-08-2022 17:09:08] [ ERROR] [Main:55] Chave primária repetida
+[18-08-2022 17:12:49] [ INFO ] [Main:42] Tabela criada com sucesso
+[18-08-2022 17:12:49] [ INFO ] [Main:45] Funcionário 1 cadastrado com sucesso
+[18-08-2022 17:12:49] [ ERROR] [Main:58] Chave primária repetida
+[18-08-2022 17:12:59] [ INFO ] [Main:42] Tabela criada com sucesso
+[18-08-2022 17:12:59] [ INFO ] [Main:45] Funcionário 1 cadastrado com sucesso
+[18-08-2022 17:12:59] [ INFO ] [Main:47] Funcionário 2 cadastrado com sucesso
+[18-08-2022 17:12:59] [ INFO ] [Main:49] Funcionário 3 cadastrado com sucesso
+[18-08-2022 17:12:59] [ INFO ] [Main:51] Funcionário deletado com sucesso
+[18-08-2022 17:12:59] [ DEBUG] [Main:53] Funcionário atualizado com sucesso
+[18-08-2022 17:12:59] [ INFO ] [Main:55] Funcionário deletado com sucesso
+[18-08-2022 17:13:24] [ INFO ] [Main:42] Tabela criada com sucesso
+[18-08-2022 17:13:24] [ INFO ] [Main:45] Funcionário 1 cadastrado com sucesso
+[18-08-2022 17:13:24] [ ERROR] [Main:58] Chave primária repetida
+[18-08-2022 17:18:27] [ INFO ] [Main:46] Tabela criada com sucesso
+[18-08-2022 17:18:27] [ INFO ] [Main:49] Funcionário 1 cadastrado com sucesso
+[18-08-2022 17:18:27] [ ERROR] [Main:69] Chave primária repetida
+[18-08-2022 17:20:46] [ INFO ] [Main:46] Tabela criada com sucesso
+[18-08-2022 17:20:46] [ INFO ] [Main:49] Funcionário 1 cadastrado com sucesso
+[18-08-2022 17:20:46] [ INFO ] [Main:51] Funcionário 2 cadastrado com sucesso
+[18-08-2022 17:20:46] [ INFO ] [Main:53] Funcionário 3 cadastrado com sucesso
+[18-08-2022 17:20:46] [ INFO ] [Main:55] Funcionário 4 cadastrado com sucesso
+[18-08-2022 17:20:46] [ ERROR] [Main:69] Chave primária repetida
+[18-08-2022 17:21:11] [ INFO ] [Main:46] Tabela criada com sucesso
+[18-08-2022 17:21:11] [ INFO ] [Main:49] Funcionário 1 cadastrado com sucesso
+[18-08-2022 17:21:11] [ INFO ] [Main:51] Funcionário 2 cadastrado com sucesso
+[18-08-2022 17:21:11] [ INFO ] [Main:53] Funcionário 3 cadastrado com sucesso
+[18-08-2022 17:21:11] [ INFO ] [Main:55] Funcionário 4 cadastrado com sucesso
+[18-08-2022 17:21:11] [ INFO ] [Main:57] Funcionário 5 cadastrado com sucesso
+[18-08-2022 17:21:11] [ INFO ] [Main:60] Funcionário deletado com sucesso
+[18-08-2022 17:21:11] [ DEBUG] [Main:63] Funcionário atualizado com sucesso
+[18-08-2022 17:21:11] [ INFO ] [Main:66] Funcionário deletado com sucesso
+[18-08-2022 18:00:10] [ INFO ] [Main:46] Tabela criada com sucesso
+[18-08-2022 18:00:10] [ INFO ] [Main:49] Funcionário 1 cadastrado com sucesso
+[18-08-2022 18:00:10] [ INFO ] [Main:51] Funcionário 2 cadastrado com sucesso
+[18-08-2022 18:00:10] [ INFO ] [Main:53] Funcionário 3 cadastrado com sucesso
+[18-08-2022 18:00:10] [ INFO ] [Main:55] Funcionário 4 cadastrado com sucesso
+[18-08-2022 18:00:10] [ ERROR] [Main:69] Chave primária repetida
+[18-08-2022 18:00:36] [ INFO ] [Main:46] Tabela criada com sucesso
+[18-08-2022 18:00:36] [ INFO ] [Main:49] Funcionário 1 cadastrado com sucesso
+[18-08-2022 18:00:36] [ INFO ] [Main:51] Funcionário 2 cadastrado com sucesso
+[18-08-2022 18:00:36] [ INFO ] [Main:53] Funcionário 3 cadastrado com sucesso
+[18-08-2022 18:00:36] [ INFO ] [Main:55] Funcionário 4 cadastrado com sucesso
+[18-08-2022 18:00:36] [ ERROR] [Main:69] Chave primária repetida
+[18-08-2022 18:01:56] [ INFO ] [Main:48] Tabela criada com sucesso
+[18-08-2022 18:01:56] [ INFO ] [Main:51] Funcionário 1 cadastrado com sucesso
+[18-08-2022 18:01:56] [ INFO ] [Main:53] Funcionário 2 cadastrado com sucesso
+[18-08-2022 18:01:56] [ INFO ] [Main:55] Funcionário 3 cadastrado com sucesso
+[18-08-2022 18:01:56] [ INFO ] [Main:57] Funcionário 4 cadastrado com sucesso
+[18-08-2022 18:01:56] [ INFO ] [Main:59] Funcionário 5 cadastrado com sucesso
+[18-08-2022 18:01:56] [ INFO ] [Main:62] Funcionário deletado com sucesso
+[18-08-2022 18:01:56] [ DEBUG] [Main:65] Funcionário atualizado com sucesso
+[18-08-2022 18:01:56] [ INFO ] [Main:68] Funcionário deletado com sucesso
+[18-08-2022 18:02:25] [ INFO ] [Main:48] Tabela criada com sucesso
+[18-08-2022 18:02:25] [ INFO ] [Main:51] Funcionário 1 cadastrado com sucesso
+[18-08-2022 18:02:25] [ INFO ] [Main:53] Funcionário 2 cadastrado com sucesso
+[18-08-2022 18:02:25] [ INFO ] [Main:55] Funcionário 3 cadastrado com sucesso
+[18-08-2022 18:02:25] [ INFO ] [Main:57] Funcionário 4 cadastrado com sucesso
+[18-08-2022 18:02:25] [ INFO ] [Main:59] Funcionário 5 cadastrado com sucesso
+[18-08-2022 18:02:25] [ INFO ] [Main:62] Funcionário deletado com sucesso
+[18-08-2022 18:02:25] [ DEBUG] [Main:65] Funcionário atualizado com sucesso
+[18-08-2022 18:02:25] [ INFO ] [Main:68] Funcionário deletado com sucesso
+[18-08-2022 18:45:47] [ INFO ] [Main:48] Tabela criada com sucesso
+[18-08-2022 18:45:47] [ INFO ] [Main:51] Funcionário 1 cadastrado com sucesso
+[18-08-2022 18:45:47] [ INFO ] [Main:53] Funcionário 2 cadastrado com sucesso
+[18-08-2022 18:45:47] [ INFO ] [Main:55] Funcionário 3 cadastrado com sucesso
+[18-08-2022 18:45:47] [ INFO ] [Main:57] Funcionário 4 cadastrado com sucesso
+[18-08-2022 18:45:47] [ INFO ] [Main:59] Funcionário 5 cadastrado com sucesso
+[18-08-2022 18:45:47] [ ERROR] [Main:73] Chave primária repetida
+[18-08-2022 18:48:04] [ INFO ] [Main:49] Tabela criada com sucesso
+[18-08-2022 18:48:04] [ INFO ] [Main:52] Funcionário 1 cadastrado com sucesso
+[18-08-2022 18:48:04] [ INFO ] [Main:54] Funcionário 2 cadastrado com sucesso
+[18-08-2022 18:48:04] [ INFO ] [Main:56] Funcionário 3 cadastrado com sucesso
+[18-08-2022 18:48:04] [ INFO ] [Main:58] Funcionário 4 cadastrado com sucesso
+[18-08-2022 18:48:04] [ INFO ] [Main:60] Funcionário 5 cadastrado com sucesso
+[18-08-2022 18:48:04] [ ERROR] [Main:65] Chave primária repetida
+[18-08-2022 18:48:04] [ INFO ] [Main:71] Funcionário deletado com sucesso
+[18-08-2022 18:48:04] [ DEBUG] [Main:74] Funcionário atualizado com sucesso
+[18-08-2022 18:48:04] [ INFO ] [Main:77] Funcionário deletado com sucesso
+[18-08-2022 18:48:35] [ INFO ] [Main:49] Tabela criada com sucesso
+[18-08-2022 18:48:35] [ INFO ] [Main:52] Funcionário 1 cadastrado com sucesso
+[18-08-2022 18:48:35] [ ERROR] [Main:65] Chave primária repetida
+[18-08-2022 18:48:35] [ INFO ] [Main:71] Funcionário deletado com sucesso
+[18-08-2022 18:48:35] [ DEBUG] [Main:74] Funcionário atualizado com sucesso
+[18-08-2022 18:48:35] [ INFO ] [Main:77] Funcionário deletado com sucesso
+[18-08-2022 18:55:22] [ INFO ] [Main:49] Tabela criada com sucesso
+[18-08-2022 18:55:22] [ INFO ] [Main:52] Funcionário 1 cadastrado com sucesso
+[18-08-2022 18:55:22] [ ERROR] [Main:65] Chave primária repetida
+[18-08-2022 18:55:22] [ INFO ] [Main:71] Funcionário deletado com sucesso
+[18-08-2022 18:55:22] [ DEBUG] [Main:74] Funcionário atualizado com sucesso
+[18-08-2022 18:55:22] [ INFO ] [Main:77] Funcionário deletado com sucesso
